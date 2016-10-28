@@ -96,8 +96,6 @@
 				TargetAttributes = {
 					BFBD84791DC39AE200AC4472 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = ZT64UJVNXX;
-						DevelopmentTeamName = "Jonathan Perez (Personal Team)";
 						ProvisioningStyle = Automatic;
 					};
 				};
